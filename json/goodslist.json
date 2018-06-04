@@ -1,0 +1,90 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "title": "假数据1",
+      "id": 0,
+      "img_url": "http://localhost:8080/src/static/images/charts.png",
+      "thumb_path": "http://localhost:8080/src/static/images/charts.png",
+      "click": 0,
+      "market_price":30,
+      "sell_price":1,
+      "zhaiyao": "假数据内容1",
+      "stock_quantity":101,
+      "content":"假数据1的详情内容",
+      "goods_no":"111111",
+      "add_time":"2018-06-19T03:02:32.000Z"
+    },
+    {
+      "title": "好东西1",
+      "id":1,
+      "img_url": "http://localhost:8080/src/static/images/cat.jpg",
+      "thumb_path": "http://localhost:8080/src/static/images/cat.jpg",
+      "click": 100,
+      "market_price":9000,
+      "sell_price":800,
+      "zhaiyao": "好东西内容1",
+      "stock_quantity":10,
+      "content":"好东西1的详情内容",
+      "goods_no":"222222",
+      "add_time":"2017-05-19T03:02:32.000Z"
+    },
+    {
+      "title": "假数据2",
+      "id": 2,
+      "img_url": "http://localhost:8080/src/static/images/charts.png",
+      "thumb_path": "http://localhost:8080/src/static/images/charts.png",
+      "click": 3,
+      "market_price":40,
+      "sell_price":2,
+      "zhaiyao": "假数据内容2",
+      "stock_quantity":100,
+      "content":"假数据2的详情内容",
+      "goods_no":"333333",
+      "add_time":"2016-06-29T03:02:32.000Z"
+    },
+    {
+      "title": "帅猫1",
+      "id":3,
+      "img_url": "http://localhost:8080/src/static/images/cat.jpg",
+      "thumb_path": "http://localhost:8080/src/static/images/cat.jpg",
+      "click": 1000,
+      "market_price":10000,
+      "sell_price":1000,
+      "zhaiyao": "帅猫内容1",
+      "stock_quantity":105,
+      "content":"帅猫1的详情内容",
+      "goods_no":"444444",
+      "add_time":"2017-05-19T03:02:32.000Z"
+    },
+    {
+      "title": "假数据3",
+      "id":4,
+      "img_url": "http://localhost:8080/src/static/images/charts.png",
+      "thumb_path": "http://localhost:8080/src/static/images/charts.png",
+      "click": 3,
+      "market_price":30,
+      "sell_price":5,
+      "zhaiyao": "假数据内容3",
+      "stock_quantity":111,
+      "content":"假数据3的详情内容",
+      "goods_no":"555555",
+      "add_time":"2018-05-10T03:02:32.000Z"
+    },
+    {
+      "title": "好东西2",
+      "id":5,
+      "img_url": "http://localhost:8080/src/static/images/cat.jpg",
+      "thumb_path": "http://localhost:8080/src/static/images/cat.jpg",
+      "click": 1000,
+      "market_price":9000,
+      "sell_price":900,
+      "zhaiyao": "好东西内容2",
+      "stock_quantity":3,
+      "content":"好东西2的详情内容",
+      "goods_no":"666666",
+      "add_time":"2012-06-20T03:02:32.000Z"
+    }
+
+  ]
+}
